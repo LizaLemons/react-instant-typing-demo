@@ -32,7 +32,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Instant Typing Demo - React</h1>
+        <h1>React Instant Typing Demo</h1>
         <TypingBox handleText={this.handleText}/>
         <hr />
         <AppendingBox appendThisText={this.state.typedLetters}/>
