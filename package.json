@@ -2,7 +2,7 @@
   "name": "react-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lizalemons.github.io/react-instant-typing-demo",
+  "homepage": "https://react-instant-typing-ghpages.herokuapp.com/",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.9.5"
